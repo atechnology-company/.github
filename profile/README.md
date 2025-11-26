@@ -2,7 +2,7 @@
 alternative software that keeps you in the present.
 a project started to create helpful, fast, easy to use tools for people that feel like a third hand.
 
-soliloquy is a new type of operating system based on the [zircon/fuchsia](https://fuchsia.googlesource.com/) kernel translated to [v](https://github.com/vlang/v) built from the ground up for web. what makes soliloquy different aside from being faster, with a smaller footprint, and using less resources is the web based desktop environment built with [servo](https://github.com/servo/servo), [v8](https://github.com/v8/v8) and [tauri](https://github.com/tauri-apps/tauri).
+soliloquy is a new type of operating system based on the [zircon/fuchsia](https://fuchsia.googlesource.com/) kernel translated to [v](https://github.com/vlang/v) built from the ground up for web. what makes soliloquy different aside from being faster, with a smaller footprint, and using less resources is the web based desktop environment built with [servo](https://github.com/servo/servo) and [v8](https://github.com/v8/v8).
 
 plates is a universal ai assistant, that links all your devices together. it is local first, utilising on device language models and tools to interact with your services. it works anytime, anywhere. own your data with a local server, syncing photos, clipboard and your accounts. pickup where you left off on any device.
 built with swiftui + rust. tableware (web ui) and mcp built with go and svelte.
