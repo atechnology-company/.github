@@ -4,8 +4,14 @@ a project started to create helpful, fast, easy to use tools for people that fee
 
 soliloquy is a new type of operating system based on the [zircon/fuchsia](https://fuchsia.googlesource.com/) kernel translated to [v](https://github.com/vlang/v) built from the ground up for web. what makes soliloquy different aside from being faster, with a smaller footprint, and using less resources is the web based desktop environment built with [servo](https://github.com/servo/servo) and [v8](https://github.com/v8/v8).
 
-plates is a universal ai assistant, that links all your devices together. it is local first, utilising on device language models and tools to interact with your services. it works anytime, anywhere. own your data with a local server, syncing photos, clipboard and your accounts. pickup where you left off on any device.
+plates is a universal ai assistant, that links into all of your services. it is local first, utilising on device language models and tools to interact with your services. it works anytime, anywhere. 
 built with swiftui + rust. tableware (web ui) and mcp built with go and svelte.
+
+atmosphere is the unified syncing platform. own your data with a local server, syncing photos, clipboard and your accounts. pickup where you left off on any device. open weblinks, sync clipboard and send files to any device at lightspeed.
+built with swift and rust.
+
+subspace is the minimal note-taker on ipad, with notion type notebook functions and handwriting functions and cloud sync.
+built with swift and xano.
 
 [standpoint](https://standpoint.atechnology.company/) is an opinion based social media platform to create tierlists and polls to share standpoints. it is ai powered and web-focused allowing you to grab photos across the web, as well as collaborate in real time.
 built with svelte and previously python.
